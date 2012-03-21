@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+"""
+test unicode escape
+tete
+"""
+
 import sys,os
 
 if __name__ == "__main__":
