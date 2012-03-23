@@ -5,6 +5,7 @@
 """
 test unicode escape
 tete
+aaa
 """
 
 import sys,os
